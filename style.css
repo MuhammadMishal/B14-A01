@@ -43,7 +43,7 @@
 /* banner-section start */
 .banner-section {
   background-image:
-    linear-gradient(to right, black, transparent), url("../assets/banner.jpg");
+    linear-gradient(to right, black, transparent), url("./assets/banner.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
