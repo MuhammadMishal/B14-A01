@@ -1,4 +1,4 @@
-<!-- prompt for the background image linear gradients: -->
+prompt for the background image linear gradients:
 
 Act as a senior Frontend Developer and CSS instructor.
 I am a complete beginner learning HTML and CSS. Teach me everything about using linear gradients with background images in CSS, step by step.
