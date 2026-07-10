@@ -79,8 +79,40 @@
 }
 .mentor-container h1 {
   padding-top: 80px;
+  font-size: 50px;
+  font-weight: 700;
 }
 .mentor-card-parent {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  align-items: center;
+  text-align: start;
+  gap: 30px;
+  padding: 56px;
+}
+.mentor-card {
+  border: 0.5px solid #e5e7eb;
+  border-radius: 8px;
+}
+.mentor-card img {
+  border-radius: 8px 8px 0 0;
+}
+.mentor-card h6 {
+  color: #2563eb;
+  font-weight: 800;
+  padding-top: 24px;
+  padding-left: 24px;
+}
+.mentor-card h3 {
+  padding-left: 24px;
+  padding-top: 8px;
+}
+.mentor-card p {
+  color: #575757;
+  font-size: 15px;
+  font-weight: 700;
+  padding-top: 8px;
+  padding-left: 24px;
+  padding-bottom: 24px;
 }
