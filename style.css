@@ -221,7 +221,7 @@ hr {
 .card li {
   color: #333333;
   /* line height value known from the chatGPT */
-  line-height: 1.5;
+  line-height: 2;
 }
 .pro ul li {
   color: #ffffff;
