@@ -72,3 +72,15 @@
 .hero-content button {
   margin-top: 300px;
 }
+/* hero section end */
+/* Speakers Section Start */
+.mentor-container {
+  text-align: center;
+}
+.mentor-container h1 {
+  padding-top: 80px;
+}
+.mentor-card-parent {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
