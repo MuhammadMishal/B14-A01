@@ -20,34 +20,7 @@ PROMPT: how can i change the un ordered list dot color ?
 PROMPT: Act as a senior Frontend Developer and CSS instructor and a UI UX designer
 I am a complete beginner learning HTML and CSS. i am building a developer conference website  
 Start from the absolute basics and assume I know nothing about UiI am building a developer conference website. So far, I have created the header, navbar, hero section, mentor section, and pricing card. What are some essential sections I should include right before the footer to make the website complete? Give me a few creative and functional ideas that fit the flow.
-AI ans:
-Header
-↓
-Navbar
-↓
-Hero
-↓
-About the Conference
-↓
-Event Highlights
-↓
-Mentors / Speakers
-↓
-Event Schedule
-↓
-Pricing
-↓
-Testimonials
-↓
-Sponsors
-↓
-FAQ
-↓
-Newsletter / CTA
-↓
-Contact
-↓
-Footer
+
 i choose the FAQ Section:
 design idea from: https://dribbble.com/shots/24427989-slothUI-World-s-Laziest-Design-System-SaaS-FAQ-Section-UIUX
 
@@ -56,5 +29,5 @@ how can i use box shadow in the box?
 how can i change the box shadow direction?
 how can it be more transparent?
 
-6..promp fot the browser tab logo
+6..prompt fot the browser tab logo
 how can i add the logo on the browser tab icon ?
