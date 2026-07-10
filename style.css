@@ -188,6 +188,10 @@
   font-weight: 800;
   padding-bottom: 6px;
 }
+/* background color for the care 3 */
+.color1 {
+  background-color: #f8f9fb;
+}
 .person {
   color: #575757;
   padding-bottom: 25px;
@@ -214,6 +218,4 @@ hr {
 /* un order list item dot  color change value known from the chatCPT*/
 .card li::marker {
   color: #2563eb;
-}
-.btn-2 {
 }
