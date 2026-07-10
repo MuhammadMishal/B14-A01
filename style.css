@@ -36,6 +36,16 @@
   font-weight: 600;
   cursor: pointer;
 }
+.btn-4 {
+  border-radius: 40px;
+  border: 1px solid #2563eb;
+  background-color: #2563eb;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 15px 20px;
+  cursor: pointer;
+}
 .container {
   max-width: 1320px;
   margin: 0 auto;
@@ -124,6 +134,7 @@
 }
 .mentor-card h6 {
   color: #2563eb;
+  font-size: 13px;
   font-weight: 800;
   padding-top: 24px;
   padding-left: 24px;
@@ -218,4 +229,57 @@ hr {
 /* un order list item dot  color change value known from the chatCPT*/
 .card li::marker {
   color: #2563eb;
+}
+
+/* FAQ section */
+.faq-title {
+  padding-top: 70px;
+  text-align: center;
+}
+.faq-title h1 {
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+.faq-title span {
+  font-size: 15x;
+  margin-top: 10px;
+}
+.faq-item {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  gap: 30px;
+}
+/* box shadow value known from the chatGPT */
+.faq-question {
+  padding-top: 50px;
+  /* border: 1px solid black; */
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  padding: 15px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.faq-question p {
+  margin-top: 10px;
+  color: #575757;
+}
+.faq-container {
+  padding: 70px;
+  margin-top: 10px;
+}
+
+.question-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 70px;
+  border-radius: 40px;
+  padding: 20px 34px 20px 35px;
+  background-color: #f0f1f5;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+.question p {
+  padding-top: 5px;
+  color: #888888;
 }
