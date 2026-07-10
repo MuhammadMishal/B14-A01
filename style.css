@@ -167,7 +167,7 @@
 .price-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 40px;
+  gap: 30px;
 }
 .card {
   padding: 40px;
@@ -322,7 +322,7 @@ footer {
   text-decoration: none;
   cursor: pointer;
 }
-hr {
+footer hr {
   margin-top: 50px;
   color: #575757;
   border: 1px solid #575757;
