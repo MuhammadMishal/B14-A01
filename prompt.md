@@ -55,3 +55,6 @@ design idea from: https://dribbble.com/shots/24427989-slothUI-World-s-Laziest-De
 how can i use box shadow in the box?
 how can i change the box shadow direction?
 how can it be more transparent?
+
+6..promp fot the browser tab logo
+how can i add the logo on the browser tab icon ?
