@@ -12,6 +12,30 @@
   border-radius: 10px;
   cursor: pointer;
 }
+.btn-2 {
+  margin-top: auto;
+  width: 100%;
+  padding: 14px;
+  border-radius: 10px;
+  border: 1px solid #2563eb;
+  background-color: white;
+  color: #2563eb;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn-3 {
+  margin-top: auto;
+  width: 100%;
+  padding: 14px;
+  border-radius: 10px;
+  border: 1px solid #2563eb;
+  background-color: #2563eb;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
 .container {
   max-width: 1320px;
   margin: 0 auto;
@@ -115,4 +139,81 @@
   padding-top: 8px;
   padding-left: 24px;
   padding-bottom: 24px;
+}
+
+.price-title {
+  text-align: center;
+  margin-bottom: 60px;
+}
+.price-title h2 {
+  font-size: 50px;
+  padding-bottom: 15px;
+}
+.price-title p {
+  color: #888888;
+  font-size: 17px;
+}
+.price-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+.card {
+  padding: 40px;
+  border: 1px solid #e5e7eb;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.pro {
+  background-color: #0d1b2a;
+  color: white;
+}
+
+.plan {
+  color: #575757;
+  font-size: 15px;
+  font-weight: 700;
+  padding-bottom: 12px;
+}
+.plan-pro {
+  color: #93c5fd;
+  font-size: 15px;
+  font-weight: 700;
+  padding-bottom: 12px;
+}
+.card h3 {
+  font-size: 40px;
+  font-weight: 800;
+  padding-bottom: 6px;
+}
+.person {
+  color: #575757;
+  padding-bottom: 25px;
+}
+hr {
+  color: #575757;
+}
+.pro hr {
+  border-color: #575757;
+}
+.card ul {
+  padding-left: 20px;
+  padding-bottom: 40px;
+  padding-top: 30px;
+}
+.card li {
+  color: #333333;
+  /* line height value known from the chatGPT */
+  line-height: 1.5;
+}
+.pro ul li {
+  color: #ffffff;
+}
+/* un order list item dot  color change value known from the chatCPT*/
+.card li::marker {
+  color: #2563eb;
+}
+.btn-2 {
 }
